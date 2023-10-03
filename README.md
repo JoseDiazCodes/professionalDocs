@@ -4,10 +4,10 @@ Welcome to my repository! Here, you'll find a collection of documents that captu
 
 ## Contents
 
-1. [**Resume**](Jose_Diaz_Resume.md)  
+1. [**Resume**](resume.md)  
    This document provides an overview of my professional history, skills, and academic background. It showcases my evolution as a Full Stack Developer and highlights key technologies and tools I've worked with.
 
-2. [**Who Am I?**](Jose_Diaz_Story.md)  
+2. [**Who Am I?**](delblurb.md)  
    Every coder has a story. This personal statement dives into my life outside of the screen. From survival trips to community initiatives, understand the experiences that shape my coding philosophy.
 
 ## Get in Touch
